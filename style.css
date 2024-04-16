@@ -22,7 +22,7 @@
     }
 
     .nav {
-        background-color: #17242a;
+        background-color: #12221b;
         width: 100%;
         height: 70px;
         margin: auto;
@@ -151,7 +151,7 @@
     font-size: 28px;
     padding-top: 25px;
     margin-bottom: 0%;
-    color: #17242a;
+    color: #12221b;
     font-weight: 600;
     font-family: "Montserrat", sans-serif;
 }
@@ -176,7 +176,7 @@
         font-size: 13.5pt;
         font-family: "Montserrat", sans-serif;
         margin-top: -6px;
-        color: #17242a;
+        color: #12221b;
         font-weight: 600;
         animation: blinker 2s linear infinite;
         text-decoration: none;
@@ -257,7 +257,7 @@ footer{
 
 
     .nav {
-        background-color: #17242a;
+        background-color: #12221b;
         width: 100%;
         height: 75px;
         margin: auto;
@@ -306,12 +306,13 @@ footer{
         
     }
     .welcome2{
-        color: #ffffff;
+        color: #b98a23;
         text-align: center;
-        font-size: 13.5pt;
-       font-weight: 250;
+        font-size: 14pt;
+       font-weight: 300;
        margin-top: -12px;
         font-family: "Raleway", sans-serif;
+        letter-spacing: 1px;
         
     }
 
@@ -321,7 +322,7 @@ footer{
             font-family: "Montserrat", sans-serif;
             margin-top: -6px;
             color: #ffffff;
-            font-weight: 600;
+            font-weight: 500;
             animation: blinker 2s linear infinite;
             text-decoration: none;
             letter-spacing: 2px;
@@ -351,7 +352,7 @@ footer{
 
 
     .secondnav{
-        background-color: #17242a;
+        background-color: #12221b;
         width: 100%;
         height: 700px;
         border-radius: 60px 60px 0px 0px;
@@ -382,7 +383,7 @@ footer{
         align-items: center;
         flex-wrap: wrap;
         margin-top: 10px;
-        background-color: #17242a;
+        background-color: #12221b;
         height: 300px;
         
     }
